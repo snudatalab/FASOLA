@@ -124,7 +124,7 @@ If you use this code, please cite the following paper.
 @article{yoon2026fasola,
   title={FASOLA: Robust Multi-Source-Free Domain Adaptation via Posterior Adjustment and Label Agreement},
   author={Yoon, hoyoung and Kang, U.},
-  journal={Interspeech},
+  booktitle={Interspeech},
   year={2026},
 }
 ```
